@@ -1,0 +1,14 @@
+@font-face {
+  font-family: vaziri-normal;
+  src: url("/assets/fonts/webfonts/Vazirmatn-Medium.woff2");
+  font-weight: 400;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: vaziri-bold;
+  src: url("/assets/fonts/webfonts/Vazirmatn-Medium.woff2");
+  font-weight: 700;
+}
+
+
