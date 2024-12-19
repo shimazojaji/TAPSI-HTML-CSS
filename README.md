@@ -15,6 +15,7 @@ This project includes three folders (assets, css, js) and a file (index.html).
 
 - The assets folder contains subfolders fonts and images for storing the required fonts and images.
 - The css folder includes font.css, which defines the local fonts, and style.css, which contains all the styling properties.
+- The js folder includes the main *JavaScript* file.
 
 
 
